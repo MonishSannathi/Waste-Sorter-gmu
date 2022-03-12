@@ -3,11 +3,28 @@ import React from "react";
 function Footer() {
   return (
     <div className="footer">
-      <footer class="py-5 bg-dark fixed-bottom">
-        <div class="container">
-          <p class="m-0 text-center text-white">
-            Copyright &copy; Your Website 2020
-          </p>
+      <footer className="py-5 bg-white fixed-bottom">
+        <div className="container">
+          <div className="row">
+            <div className="col-5">
+            <span className="trash">
+              <span></span>
+              <i></i>
+            </span>
+            </div>
+            <div className="col-5">
+            <span className="trash">
+              <span></span>
+              <i></i>
+            </span>
+            </div>
+            <div className="col-2">
+            <span className="trash">
+              <span></span>
+              <i></i>
+            </span> 
+            </div>
+          </div>                
         </div>
       </footer>
     </div>
