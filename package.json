@@ -1,5 +1,4 @@
-{
-  "homepage": "https://MonishSannathi.github.io/Waste-Sorter-gmu",
+{  
   "name": "react-multi-page-website",
   "version": "0.1.0",
   "private": true,
@@ -14,9 +13,7 @@
     "react-scripts": "3.3.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",    
+    "start": "react-scripts start",      
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
