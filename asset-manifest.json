@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7BWaste-Sorter-gmu%7D/static/css/main.1e39348c.chunk.css",
+    "main.js": "/%7BWaste-Sorter-gmu%7D/static/js/main.64d0483b.chunk.js",
+    "main.js.map": "/%7BWaste-Sorter-gmu%7D/static/js/main.64d0483b.chunk.js.map",
+    "runtime-main.js": "/%7BWaste-Sorter-gmu%7D/static/js/runtime-main.ad36dbce.js",
+    "runtime-main.js.map": "/%7BWaste-Sorter-gmu%7D/static/js/runtime-main.ad36dbce.js.map",
+    "static/js/2.52a24512.chunk.js": "/%7BWaste-Sorter-gmu%7D/static/js/2.52a24512.chunk.js",
+    "static/js/2.52a24512.chunk.js.map": "/%7BWaste-Sorter-gmu%7D/static/js/2.52a24512.chunk.js.map",
+    "index.html": "/%7BWaste-Sorter-gmu%7D/index.html",
+    "precache-manifest.c9d1699ec63e0b2920cdd22f11ca63ca.js": "/%7BWaste-Sorter-gmu%7D/precache-manifest.c9d1699ec63e0b2920cdd22f11ca63ca.js",
+    "service-worker.js": "/%7BWaste-Sorter-gmu%7D/service-worker.js",
+    "static/css/main.1e39348c.chunk.css.map": "/%7BWaste-Sorter-gmu%7D/static/css/main.1e39348c.chunk.css.map",
+    "static/js/2.52a24512.chunk.js.LICENSE.txt": "/%7BWaste-Sorter-gmu%7D/static/js/2.52a24512.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad36dbce.js",
+    "static/js/2.52a24512.chunk.js",
+    "static/css/main.1e39348c.chunk.css",
+    "static/js/main.64d0483b.chunk.js"
+  ]
+}
